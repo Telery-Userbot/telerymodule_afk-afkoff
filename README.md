@@ -1,1 +1,1 @@
-# telerymodule_afk-afkoff
+# Модуль afk/afkoff для юзербота Telery.
